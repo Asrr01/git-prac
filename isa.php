@@ -20,7 +20,7 @@
         echo $colors[2];
 
     //associative array types(contains multiple values with key-value pairs)
-    $person = (
+    $person = array(
         "name" => "John", 
         "age" => 30, 
         "city" =>  "New York"
